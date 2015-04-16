@@ -2,7 +2,7 @@
   "name": "impactbot",
   "version": "0.0.0",
   "private": true,
-  "author": "Adam Wentz <adam@adamwentz.com>",
+  "author": "Adam Wentz <adam@theimpactlab.co>",
   "description": "An impactful bot",
   "dependencies": {
     "hubot": "^2.12.0",
